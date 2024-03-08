@@ -1,0 +1,13 @@
+h1{
+    text-align: center;
+    font-size: 50px;
+}
+.submit{
+    text-align: center;
+}
+body{ 
+    background-image: url('sfondo2.jpg');
+    background-size: cover; 
+}
+      
+
